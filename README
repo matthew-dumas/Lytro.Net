@@ -1,3 +1,7 @@
+So, I saw this awesome project, forked it, and added my own features. Below is the original Readme. All of my additions are licensed under the GPL most recent version. Any original code from the previous authors is still subject to their license terms. 
+
+
+
 This was a project I developed to create a sensible Windows UI for opening native Lytro files (.LFP) and extracting the JPEGs located within.
 
 There is also a LytroSplitter executable that functions as a command line tool (drag and drop one or more files to it).
